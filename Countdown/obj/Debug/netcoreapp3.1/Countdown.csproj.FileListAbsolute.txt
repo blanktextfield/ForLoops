@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\ForLoops\Countdown\bin\Debug\netcoreapp3.1\Countdown.exe
+C:\Users\opilane\source\repos\ForLoops\Countdown\bin\Debug\netcoreapp3.1\Countdown.deps.json
+C:\Users\opilane\source\repos\ForLoops\Countdown\bin\Debug\netcoreapp3.1\Countdown.runtimeconfig.json
+C:\Users\opilane\source\repos\ForLoops\Countdown\bin\Debug\netcoreapp3.1\Countdown.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ForLoops\Countdown\bin\Debug\netcoreapp3.1\Countdown.dll
+C:\Users\opilane\source\repos\ForLoops\Countdown\bin\Debug\netcoreapp3.1\Countdown.pdb
+C:\Users\opilane\source\repos\ForLoops\Countdown\obj\Debug\netcoreapp3.1\Countdown.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ForLoops\Countdown\obj\Debug\netcoreapp3.1\Countdown.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ForLoops\Countdown\obj\Debug\netcoreapp3.1\Countdown.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ForLoops\Countdown\obj\Debug\netcoreapp3.1\Countdown.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ForLoops\Countdown\obj\Debug\netcoreapp3.1\Countdown.dll
+C:\Users\opilane\source\repos\ForLoops\Countdown\obj\Debug\netcoreapp3.1\Countdown.pdb
+C:\Users\opilane\source\repos\ForLoops\Countdown\obj\Debug\netcoreapp3.1\Countdown.genruntimeconfig.cache
